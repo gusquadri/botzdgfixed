@@ -9,7 +9,7 @@ Conheça o canal da Comunidade ZDG:
 
 ### Como usar?
 
-- git clone https://github.com/gusquadri/botzdgmodified.git
+- git clone https://github.com/gusquadri/botzdgfixed.git
 - cd botzdgmodified
 - Rodar `npm install`
 - Rodar `npm start`
